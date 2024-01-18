@@ -16,4 +16,4 @@ readme = "README.md"
 edition = "2018"
 
 [dependencies]
-indexmap = "1.0.2"
+indexmap = "^2"
